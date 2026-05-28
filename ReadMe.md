@@ -17,3 +17,16 @@
 ![alt text](slides/slide9.png)
 ![alt text](slides/slide10.png)
 ![alt text](slides/slide11.png)
+
+
+# **Natural Language Processing(NLP) 101**
+
+![alt text](slides/nlp1.png)
+![alt text](slides/nlp2.png)
+![alt text](slides/nlp3.png)
+![alt text](slides/nlp4.png)
+![alt text](slides/nlp5.png)
+![alt text](slides/nlp6.png)
+![alt text](slides/nlp7.png)
+![alt text](slides/nlp8.png)
+![alt text](slides/nlp9.png)
