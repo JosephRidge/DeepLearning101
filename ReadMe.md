@@ -29,4 +29,4 @@
 ![alt text](slides/nlp6.png)
 ![alt text](slides/nlp7.png)
 ![alt text](slides/nlp8.png)
-![alt text](slides/nlp9.png)
+![alt text](slides/nlp9.png) 
